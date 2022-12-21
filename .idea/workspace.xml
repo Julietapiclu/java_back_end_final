@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c2edffb8-d2ca-4b81-a1aa-90ff382b507c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/acciones/Alimentarse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/acciones/Divertirse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/acciones/Dormir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/acciones/HacerPopo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/acciones/Morir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/enumeradores/AlmacenAlimentos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/enumeradores/EntretenimientosEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/modelos/CeroMascota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/modelos/Mascota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/modelos/MishuMascota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/persistencia/IMascotaPersistence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/persistencia/mysql/MascotaPersistenceUseMySQL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/persistencia/mysql/MySQLConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/persistencia/persistenceCollections/MascotaPersistenceUseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/actas/Mishu-MerlinaDefuncion.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/actas/Mishu-MerlinaNacimiento.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/actas/RegistroCivilMascotas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/acciones/Alimentarse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/acciones/Divertirse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/acciones/Dormir.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/acciones/HacerPopo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/acciones/Morir.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/enumeradores/AlmacenAlimentos.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/enumeradores/EntretenimientosEnum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/modelos/CeroMascota.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/modelos/Mascota.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/modelos/MishuMascota.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/persistencia/IMascotaPersistence.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/persistencia/mysql/MascotaPersistenceUseMySQL.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/persistencia/mysql/MySQLConnection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/persistencia/persistenceCollections/MascotaPersistenceUseList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/utils/actas/RegistroCivilMascotas.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="recentSearchFilters">
+      <list>
+        <option value="state:open" />
+      </list>
+    </option>
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="785f2aec-8906-4eee-85b9-9372fedf6d7f" />
+        <option name="url" value="https://github.com/Julietapiclu/java_back_end_final.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2IPd3F13ERzh1U2914tyABmtIFw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/July/Desktop/java_back_end_final",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="persistencia.persistenceCollections" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2edffb8-d2ca-4b81-a1aa-90ff382b507c" name="Changes" comment="" />
+      <created>1670086950649</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670086950649</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
